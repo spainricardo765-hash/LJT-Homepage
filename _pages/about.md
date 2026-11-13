@@ -32,7 +32,7 @@ My research focuses on natural language processing (NLP) and machine learning (M
 
 # Publications
 
-All of my publications are listed below (my name is highlighted in **bold**; \(*\) marks first-author papers are indicated). A copy of this list is also maintained on the [Publications](/publications/) page.
+All of my publications are listed below (my name is highlighted in **bold**; papers for which I am the first author are marked with \(*\)). The same list is also maintained on the [Publications](publications/) page.
 
 1. **SynLogic: Synthesizing Verifiable Reasoning Data at Scale for Learning Logical Reasoning and Beyond**<br>
 **\(*\) Junteng Liu**, Yuanxiang Fan, Zhuo Jiang, Han Ding, Yongyi Hu, Chi Zhang, Yiqi Shi, Shitong Weng, Aili Chen, Shiqi Chen, Yunan Huang, Mozhi Zhang, Pengyu Zhao, Junjie Yan, Junxian He<br>
